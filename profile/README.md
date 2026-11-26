@@ -17,5 +17,5 @@ Everything is explained in the [project-catalog](https://github.com/CoreDumped-E
 ## 📬 Get in touch
 
 - ✉️ [coredumped.etsisi@upm.es](mailto:coredumped.etsisi@upm.es)
-- 💬 Discord: DISCORD_INVITE_URL!!!
+- 💬 [Discord](https://discord.gg/ftxTSs4aD4)
 - 📍 ETSISI (UPM), Madrid
