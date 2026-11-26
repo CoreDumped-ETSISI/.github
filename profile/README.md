@@ -12,7 +12,7 @@ All our projects live in one place: the **[Project Catalog](https://github.com/o
 - 🤝 **Want to help without joining?** Check the *Collaborate* view. No permission needed.
 - 💡 **Have an idea?** [Propose a project](https://github.com/CoreDumped-ETSISI/project-catalog/issues/new?template=project-proposal.yml).
 
-Everything is explained in the [project-catalog](https://github.com/orgs/CoreDumped-ETSISI/projects/11) repository.
+Everything is explained in the [project-catalog](https://github.com/CoreDumped-ETSISI/project-catalog) repository.
 
 ## 📬 Get in touch
 
